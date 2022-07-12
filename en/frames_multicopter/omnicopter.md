@@ -100,7 +100,7 @@ Make sure the motors do not overheat with the changed settings.
 
 ### PX4 Configuration
 
-- In the[Airframe](../config/airframe.md) configuration select a _generic multicopter_. 
+- In the [Airframe](../config/airframe.md) configuration select a _generic multicopter_. 
 - Enable [SYS_CTRL_ALLOC](../advanced_config/parameter_reference.md#SYS_CTRL_ALLOC)
 - Use an [arming switch](../advanced_config/prearm_arm_disarm#arming-button-switch).
   Do not use stick arming.
